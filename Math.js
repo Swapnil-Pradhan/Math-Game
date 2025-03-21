@@ -16,6 +16,10 @@ document.getElementById("scor").innerHTML=localStorage.getItem("HiScore");
 }
 
 function go(){
+  location.href= "https://2no.co/24FM87;
+
+i built this back in class 10
+shayad tujhe mene pehle bhi dikhaya tha"
 for(var i=0; i<99; i++){
 document.getElementById(i).style.top="99%";
 document.getElementById(i).style.opacity="0";
@@ -164,3 +168,4 @@ i--;
 }
 }
 })();
+
